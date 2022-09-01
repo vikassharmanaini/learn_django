@@ -1,0 +1,28 @@
+.ca-fl{
+    display: flex;
+    min-height: 10px;
+    min-width: 90%;
+    background-color: white;
+    margin: 1%;
+    box-shadow: 1px 1px 1px 1px rgba(128, 128, 128, 0.164);
+    border-radius: 5px;
+}
+.img-dis{
+    float: inline-start;
+    margin: 5px;
+    width: 100%;
+}
+.title{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 900;
+    margin: 7px;
+    font-size: large;
+    
+}
+.img-sp{
+    width: 40%;
+    float: left;
+}
+.con-sp{
+    width: 60%;
+}
